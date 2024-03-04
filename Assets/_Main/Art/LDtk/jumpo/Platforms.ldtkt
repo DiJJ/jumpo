@@ -1,0 +1,33 @@
+{
+  "Rects": null,
+  "Def": {
+    "__cHei": 2,
+    "__cWid": 4,
+    "cachedPixelData": {
+      "opaqueTiles": "00000000",
+      "averageColors": "37553755375537554866486548664867"
+    },
+    "customData": [
+
+    ],
+    "embedAtlas": null,
+    "enumTags": [
+
+    ],
+    "identifier": "Platforms",
+    "padding": 32,
+    "pxHei": 128,
+    "pxWid": 192,
+    "relPath": "../Treasure Hunters/Pirate Ship/Sprites/Tilesets/Platforms (32x32).png",
+    "savedSelections": [
+
+    ],
+    "spacing": 0,
+    "tags": [
+
+    ],
+    "tagsSourceEnumUid": null,
+    "tileGridSize": 32,
+    "uid": 530
+  }
+}

@@ -1,0 +1,2632 @@
+fileFormatVersion: 2
+guid: a2d67b4dfaf13d945be34758bb400011
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f3268c876daf4890b6af6cd462063137, type: 3}
+  _reimportOnDependencyChange: 1
+  _pixelsPerUnit: 32
+  _sprites:
+  - name: Pirate_Ship_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 352
+      width: 32
+      height: 32
+    spriteID: 7092249d484c7104fb1ae952f03bb570
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 352
+      width: 32
+      height: 32
+    spriteID: 685f2d05f3fd56b4c981cb8b32f83641
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 352
+      width: 32
+      height: 32
+    spriteID: 60e157e8b7d59634ebf402a71fc468b8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 352
+      width: 32
+      height: 32
+    spriteID: c203c3fc33f47b548984cf33d03e3807
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 352
+      width: 32
+      height: 32
+    spriteID: cdacf022e8114f449a868cd624d41fd5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 352
+      width: 32
+      height: 32
+    spriteID: 5a4c24e5c47ed6d49b97a8efa0671783
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 352
+      width: 32
+      height: 32
+    spriteID: 71f0ad2c6092e4b4a9d795efc7df5970
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 352
+      width: 32
+      height: 32
+    spriteID: 86b948630a893824bab276e10aec6eb3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 352
+      width: 32
+      height: 32
+    spriteID: 5b01439abc033b84e830d651671c173a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 352
+      width: 32
+      height: 32
+    spriteID: 07d0f1cd7fb2c9f4fa992c71064d74a4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 352
+      width: 32
+      height: 32
+    spriteID: 991554ad21062384e86cada54179309a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 384
+      y: 352
+      width: 32
+      height: 32
+    spriteID: 5b9b644f7fb72254f998972bf1a77b72
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 416
+      y: 352
+      width: 32
+      height: 32
+    spriteID: 812354d97167ba14f9f9281eeedd6e4f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 448
+      y: 352
+      width: 32
+      height: 32
+    spriteID: 3c4bfb440db6508488b154c1b8946157
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 352
+      width: 32
+      height: 32
+    spriteID: bc9154afe626a6d4584f4f17a1f1acd9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 512
+      y: 352
+      width: 32
+      height: 32
+    spriteID: 5b031fb9dd3b3dc458f1cace940bbdbb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 352
+      width: 32
+      height: 32
+    spriteID: 171306630e450d049b9517d822dd35fe
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 320
+      width: 32
+      height: 32
+    spriteID: a947be92c242802408037b3021bf4ae1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 320
+      width: 32
+      height: 32
+    spriteID: 2a6d49b1698813b499da6bec39c6f961
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 320
+      width: 32
+      height: 32
+    spriteID: e6417b9d9e420e543923d1965a726ee6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 320
+      width: 32
+      height: 32
+    spriteID: ef223059c39e5344b8a51d7368df3786
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 320
+      width: 32
+      height: 32
+    spriteID: 4e4159cef9ce6d24083331f13a6b164d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 320
+      width: 32
+      height: 32
+    spriteID: ab4bfbd09bf29e347ac9a02eeabd5856
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_23
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 320
+      width: 32
+      height: 32
+    spriteID: 40c7124c0f560a245a4c0353d3b06fa0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_24
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 320
+      width: 32
+      height: 32
+    spriteID: d5aca854c68b17341aadb204c8162b34
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_25
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 320
+      width: 32
+      height: 32
+    spriteID: a0bf6d9df23f8494dbcc1b242b07bd1f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_26
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 320
+      width: 32
+      height: 32
+    spriteID: 618b44f31c082874da9b37600de80c2f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_27
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 320
+      width: 32
+      height: 32
+    spriteID: 4e6869d75a6ccf84faaef393ce91a92a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_28
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 384
+      y: 320
+      width: 32
+      height: 32
+    spriteID: b5d8ee8a51da1134793e18f8fb73c033
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_29
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 416
+      y: 320
+      width: 32
+      height: 32
+    spriteID: 6fea7a2b4c312c74abf92467d1b33614
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_30
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 448
+      y: 320
+      width: 32
+      height: 32
+    spriteID: 0bc0376aaad8c4a4f883e6a969602303
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_31
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 320
+      width: 32
+      height: 32
+    spriteID: 766a63cd79e0b94489c9ab7ba6811d6a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_32
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 512
+      y: 320
+      width: 32
+      height: 32
+    spriteID: 825f2c0a863a6c844bbdd747255efa81
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_33
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 320
+      width: 32
+      height: 32
+    spriteID: 6232777770765974cae5be734ee27104
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_34
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 288
+      width: 32
+      height: 32
+    spriteID: 9155586235fc9af449fe9cc31c2e2016
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_35
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 288
+      width: 32
+      height: 32
+    spriteID: f80719d55c1468b479b1e8cc4886baed
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_36
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 288
+      width: 32
+      height: 32
+    spriteID: aa93358aa2aa48049a48b55666c7ee88
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_37
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 288
+      width: 32
+      height: 32
+    spriteID: d0d464eb327351d41b3d5655ae33ec90
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_38
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 288
+      width: 32
+      height: 32
+    spriteID: a74c95d4960dc3a4e9c4e9ff59297f5d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_39
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 288
+      width: 32
+      height: 32
+    spriteID: 7db46f2645d2beb439e5319e64b6cf9c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_40
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 288
+      width: 32
+      height: 32
+    spriteID: fce78de077ffe5548964a283107cc159
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_41
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 288
+      width: 32
+      height: 32
+    spriteID: eeed9c539564aac4db4249c620ad1304
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_42
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 288
+      width: 32
+      height: 32
+    spriteID: d683a7fbb16736144a2077e221c1be57
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_43
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 288
+      width: 32
+      height: 32
+    spriteID: aa17de4f50dc33e44bb40c68de0893df
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_44
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 288
+      width: 32
+      height: 32
+    spriteID: 58b8c6872ef4e09469caf555eb08fc5b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_45
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 384
+      y: 288
+      width: 32
+      height: 32
+    spriteID: b77a036b76f227942a175e362fe23b97
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_46
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 416
+      y: 288
+      width: 32
+      height: 32
+    spriteID: dd46c96d4bb08a64cb4c4f717f7522cb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_47
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 448
+      y: 288
+      width: 32
+      height: 32
+    spriteID: baa84cd3810d6d9429973aeba2c13e5e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_48
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 288
+      width: 32
+      height: 32
+    spriteID: 999b22d28aa0b5346928e7cec6496999
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_49
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 512
+      y: 288
+      width: 32
+      height: 32
+    spriteID: 6112cfe13eed4cb4698c72afd404b985
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_50
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 288
+      width: 32
+      height: 32
+    spriteID: f8880fd84e1f74e4398afe2bce5753c9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_51
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 256
+      width: 32
+      height: 32
+    spriteID: 692ecc9dcbee67b4b81108a94aff41db
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_52
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 256
+      width: 32
+      height: 32
+    spriteID: f0c3425b82c19fc40b816abdefb043d2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_53
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 256
+      width: 32
+      height: 32
+    spriteID: 5d3f735db969d424f8b8e4ecf65a307f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_54
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 256
+      width: 32
+      height: 32
+    spriteID: 01036de325ff5dc4a8fcb0da7081678f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_55
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 256
+      width: 32
+      height: 32
+    spriteID: a15cd0dc37de3964e868dbc14d84cb3b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_56
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 256
+      width: 32
+      height: 32
+    spriteID: c68ec0768e909e846b9c2b0858b88382
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_57
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 256
+      width: 32
+      height: 32
+    spriteID: c88aae189dd5d1145bbea310ea1d66df
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_58
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 256
+      width: 32
+      height: 32
+    spriteID: a8050b2f4b1087f4991e2dd157389417
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_59
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 256
+      width: 32
+      height: 32
+    spriteID: 7678030421a6a4a469724a1c875e96d6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_60
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 256
+      width: 32
+      height: 32
+    spriteID: 23e8c652935eb374fab4cb814eaf2098
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_61
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 256
+      width: 32
+      height: 32
+    spriteID: 84f9a7def0a987246a5279b9fc05b282
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_62
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 384
+      y: 256
+      width: 32
+      height: 32
+    spriteID: fc7837c727e643b4c936e6ee9c452b4d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_63
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 416
+      y: 256
+      width: 32
+      height: 32
+    spriteID: 8e1b050616f95b5478c3c399954c1045
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_64
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 448
+      y: 256
+      width: 32
+      height: 32
+    spriteID: d603f03d0b1c6c74e9bdaa8d18fa562b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_65
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 256
+      width: 32
+      height: 32
+    spriteID: e81ef7e8bd974e0478e3b284b744c580
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_66
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 512
+      y: 256
+      width: 32
+      height: 32
+    spriteID: 30efcbb829d31aa4d82f9fe96514e890
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_67
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 256
+      width: 32
+      height: 32
+    spriteID: 63941dc47d674f147a2381d8b843b94d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_68
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 224
+      width: 32
+      height: 32
+    spriteID: 3fcfaa4972f6dcd4fa21f911b26a274c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_69
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 224
+      width: 32
+      height: 32
+    spriteID: 2528fafa49630ec488e85f8717db3ac5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_70
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 224
+      width: 32
+      height: 32
+    spriteID: 3b62b3bcdb7377243ab9fe69f6c7a0dc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_71
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 224
+      width: 32
+      height: 32
+    spriteID: 90dd021a406787244ae1a62a62c309d9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_72
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 224
+      width: 32
+      height: 32
+    spriteID: 4c2c7b07e99162949ad7c0ef3c7f56a7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_73
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 224
+      width: 32
+      height: 32
+    spriteID: adc7011595193704a80bc4b372afb8a8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_74
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 224
+      width: 32
+      height: 32
+    spriteID: b6985cd84e5de10498b349cfd42809c4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_75
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 224
+      width: 32
+      height: 32
+    spriteID: 462798493e759f842b75f339d9f580f7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_76
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 224
+      width: 32
+      height: 32
+    spriteID: e89e83dc7d207a04cae37fb8fa8b6423
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_77
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 224
+      width: 32
+      height: 32
+    spriteID: d63f6ed5bfc97874fa81c4e99013aca6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_78
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 224
+      width: 32
+      height: 32
+    spriteID: fe6ee06887cdeb140a9975de02e60bcd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_79
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 384
+      y: 224
+      width: 32
+      height: 32
+    spriteID: 338698c506eac704fb0ceee9cf66740d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_80
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 416
+      y: 224
+      width: 32
+      height: 32
+    spriteID: e986acc4166fef94294ca32347b4ad52
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_81
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 448
+      y: 224
+      width: 32
+      height: 32
+    spriteID: b9121f549293d2e4b8a4a319765eafca
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_82
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 224
+      width: 32
+      height: 32
+    spriteID: 3f9b107b27156da40a071aa4b9e1e388
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_83
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 512
+      y: 224
+      width: 32
+      height: 32
+    spriteID: 3c69a0c1d8f0a544ba600388cbf007c5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_84
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 224
+      width: 32
+      height: 32
+    spriteID: 42fc549c43c7dd4448ce50dc5737c8d7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_85
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 192
+      width: 32
+      height: 32
+    spriteID: fc709284db3cd9843be7dd307c67c522
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_86
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 192
+      width: 32
+      height: 32
+    spriteID: 08a4958887508d8469b9e97af0d4d5be
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_87
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 192
+      width: 32
+      height: 32
+    spriteID: d5a768d5a2c431248bcfb92cbeb021ec
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_88
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 192
+      width: 32
+      height: 32
+    spriteID: 461fad9a90a96874d9362e47fb2e38b1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_89
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 192
+      width: 32
+      height: 32
+    spriteID: d29fd17c9c4809c4583c1db0cbab1544
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_90
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 192
+      width: 32
+      height: 32
+    spriteID: 6039c17ac9dd7504784dda9847e26764
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_91
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 192
+      width: 32
+      height: 32
+    spriteID: 8a20fd7f499fb10419b9e4d1fe996e85
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_92
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 192
+      width: 32
+      height: 32
+    spriteID: 7656e8a95f466404eab37b0cc358f270
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_93
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 192
+      width: 32
+      height: 32
+    spriteID: 732fbe2d858e86442b77252c1d415ae6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_94
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 192
+      width: 32
+      height: 32
+    spriteID: 5f40f11c271270141adc0870eff9421b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_95
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 192
+      width: 32
+      height: 32
+    spriteID: 530f0ee4173f56b45afc33a60d4ca670
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_96
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 384
+      y: 192
+      width: 32
+      height: 32
+    spriteID: 9c73190dcda8e27458caee01c4506d22
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_97
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 416
+      y: 192
+      width: 32
+      height: 32
+    spriteID: ee3a0bc6b9269d84c810df526160575f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_98
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 448
+      y: 192
+      width: 32
+      height: 32
+    spriteID: 52a579741a9153c4d9a2a738260eab48
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_99
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 192
+      width: 32
+      height: 32
+    spriteID: b22c7df0383edba4884a2a8fee4229a4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_100
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 512
+      y: 192
+      width: 32
+      height: 32
+    spriteID: 0fa3ac1eec0482a49b91c3922ca5c9fc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_101
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 192
+      width: 32
+      height: 32
+    spriteID: 24ca94b71319e4546aa47fdf603d0734
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_102
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 160
+      width: 32
+      height: 32
+    spriteID: b5771d4e5e7a7c940bd67a3c1c2ff111
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_103
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 160
+      width: 32
+      height: 32
+    spriteID: b2333a4fc4a4f534dae7e05e2c308bad
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_104
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 160
+      width: 32
+      height: 32
+    spriteID: 128208c032bed1d4ebdac2397e48cac8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_105
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 160
+      width: 32
+      height: 32
+    spriteID: ec3c046d62e355141ba8abf4e358be36
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_106
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 160
+      width: 32
+      height: 32
+    spriteID: 3b973272012945746a5903307d1fe5f7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_107
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 160
+      width: 32
+      height: 32
+    spriteID: e979c58426e51944d8462e0e72ad0dfd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_108
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 160
+      width: 32
+      height: 32
+    spriteID: 2d4668d63a8b42a4c81aed251d4c484c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_109
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 160
+      width: 32
+      height: 32
+    spriteID: 5e34b337fc890664f9470d2c30ffcef0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_110
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 160
+      width: 32
+      height: 32
+    spriteID: 09d1d89d3ed9d1048a84f3ed987ff205
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_111
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 160
+      width: 32
+      height: 32
+    spriteID: fb47bf20a6ed8e34b9d2d7700432f191
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_112
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 160
+      width: 32
+      height: 32
+    spriteID: cce49c6c49ebde94b88c9d85e8f3064e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_113
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 384
+      y: 160
+      width: 32
+      height: 32
+    spriteID: 968de88c923d36545b929be4d59ec669
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_114
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 416
+      y: 160
+      width: 32
+      height: 32
+    spriteID: 6b8b6b14972306f4c9b3af85451970df
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_115
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 448
+      y: 160
+      width: 32
+      height: 32
+    spriteID: e3606788c4647fc49a3d9a8aa0678a83
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_116
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 160
+      width: 32
+      height: 32
+    spriteID: 095a6f9d98940a84bb55a3fb1e173bc8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_117
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 512
+      y: 160
+      width: 32
+      height: 32
+    spriteID: 49566be6c23155c4380d3ee4be5dec64
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_118
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 160
+      width: 32
+      height: 32
+    spriteID: 0f0612408b98f42448f26712f6903e42
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_119
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 128
+      width: 32
+      height: 32
+    spriteID: cb2b979e734e41840a3ce60dd5240809
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_120
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 128
+      width: 32
+      height: 32
+    spriteID: 290ea325e9bf7e847bc1cfc66ae434c5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_121
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 128
+      width: 32
+      height: 32
+    spriteID: 5e2fac6c73edfda44bee7c1e0eb62710
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_122
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 128
+      width: 32
+      height: 32
+    spriteID: c3af4397051cfba4784018acfd100a6a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_123
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 128
+      width: 32
+      height: 32
+    spriteID: 068a9fb350dea0e4389151d4b8978b36
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_124
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 128
+      width: 32
+      height: 32
+    spriteID: 34994417e6ea2a3498bafdef7b974c03
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_125
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 128
+      width: 32
+      height: 32
+    spriteID: 95bdc48fc91fa114b870e00ecd1590b4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_126
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 128
+      width: 32
+      height: 32
+    spriteID: 14bdf00f9e157e748a0537c9c08ede88
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_127
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 128
+      width: 32
+      height: 32
+    spriteID: 8ee66e061a82f074a84abaffcfee3972
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_128
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 128
+      width: 32
+      height: 32
+    spriteID: 5935512d9739b4842b0bf815d483f9f6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_129
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 128
+      width: 32
+      height: 32
+    spriteID: 2ec7587f46896c6488138ded466ec153
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_130
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 384
+      y: 128
+      width: 32
+      height: 32
+    spriteID: 15169e3964273f04bb467fa88352e676
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_131
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 416
+      y: 128
+      width: 32
+      height: 32
+    spriteID: 357f7a564505a31449724986ef837e11
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_132
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 448
+      y: 128
+      width: 32
+      height: 32
+    spriteID: 7d797bcf47a5f5e4fa20f8a8af1d647a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_133
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 128
+      width: 32
+      height: 32
+    spriteID: 0ec1239f1cf70114e818836d534a9ca1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_134
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 512
+      y: 128
+      width: 32
+      height: 32
+    spriteID: e3467aa45ababd246a788701a9698ef4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_135
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 128
+      width: 32
+      height: 32
+    spriteID: 7f2ff65e0b60c9143b7802482d697485
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_136
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 96
+      width: 32
+      height: 32
+    spriteID: 560f25119c7495746b913601086b1536
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_137
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 96
+      width: 32
+      height: 32
+    spriteID: 1da508e1d869983418d58c63edd40004
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_138
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 96
+      width: 32
+      height: 32
+    spriteID: 3d1a20ab1aee0814aa6f307bb9dfbd6f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_139
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 96
+      width: 32
+      height: 32
+    spriteID: a4f1ecccc43d9bd4ba256314770636b9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_140
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 96
+      width: 32
+      height: 32
+    spriteID: 9bf05fca855b41f419b08e9670c1048d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_141
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 96
+      width: 32
+      height: 32
+    spriteID: b69a262f0f4e1954cb8675945af5bdec
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_142
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 96
+      width: 32
+      height: 32
+    spriteID: d88b4dd48a4a9a94c9ed36231059db18
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_143
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 96
+      width: 32
+      height: 32
+    spriteID: 4c25207e068e1354aa145bd9aa1ac54e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_144
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 96
+      width: 32
+      height: 32
+    spriteID: 84163367b75f9dc42bec08eea508c2d0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_145
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 96
+      width: 32
+      height: 32
+    spriteID: eb68595ef01f236418fbfa688ba43f73
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_146
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 96
+      width: 32
+      height: 32
+    spriteID: 7d7f23f0de236444ba56ac49958cf7ba
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_147
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 384
+      y: 96
+      width: 32
+      height: 32
+    spriteID: 9087d4af522d8a243b606c691c0bb9ca
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_148
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 416
+      y: 96
+      width: 32
+      height: 32
+    spriteID: 47158398157937d47acc45f72a6893c7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_149
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 448
+      y: 96
+      width: 32
+      height: 32
+    spriteID: 8c55eb276cc46d54d8f8422c26e307d5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_150
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 96
+      width: 32
+      height: 32
+    spriteID: 682f7f418765f7d449090fd27db71b8c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_151
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 512
+      y: 96
+      width: 32
+      height: 32
+    spriteID: bfb5946d8924feb43ac0d760496860aa
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_152
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 96
+      width: 32
+      height: 32
+    spriteID: ad9a67110996f9f4391034fa4ab62de5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_153
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 64
+      width: 32
+      height: 32
+    spriteID: 803e0a88401f4984797416a2a8b92aee
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_154
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 64
+      width: 32
+      height: 32
+    spriteID: d00668b897086d644ad0d68d31044aef
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_155
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 64
+      width: 32
+      height: 32
+    spriteID: 0d620455066834842976976ed30189ac
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_156
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 64
+      width: 32
+      height: 32
+    spriteID: 058e1231895c63948b06ef251bf2559b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_157
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 64
+      width: 32
+      height: 32
+    spriteID: 5d3e860a9fd7dd8499ae2b2b672c0d92
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_158
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 64
+      width: 32
+      height: 32
+    spriteID: 2127f4cf918e0ce428d294041db7055f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_159
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 64
+      width: 32
+      height: 32
+    spriteID: 66d56b9b52c1fe04b936e6108bebcadc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_160
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 64
+      width: 32
+      height: 32
+    spriteID: eb61bba58082c6243b525b8563d4ee9a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_161
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 64
+      width: 32
+      height: 32
+    spriteID: 03b3f3469899013449bdf6e697acf16a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_162
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 64
+      width: 32
+      height: 32
+    spriteID: 3d8748e9db31c8c429e61b62df5ee7d2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_163
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 64
+      width: 32
+      height: 32
+    spriteID: 6a3b8a7d3c9a84049bad9871efa84f16
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_164
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 384
+      y: 64
+      width: 32
+      height: 32
+    spriteID: 9867ed13f7472734392d6f90a8be73a1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_165
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 416
+      y: 64
+      width: 32
+      height: 32
+    spriteID: 008f80213203e0045a9450d78e41e3e9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_166
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 448
+      y: 64
+      width: 32
+      height: 32
+    spriteID: 3e4557d2d64b9624389dfb73c50403ce
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_167
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 64
+      width: 32
+      height: 32
+    spriteID: 0c0351b6c4906b34f8e734847782e997
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_168
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 512
+      y: 64
+      width: 32
+      height: 32
+    spriteID: 81f5a4594d87cdf40be10ceab710528a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_169
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 64
+      width: 32
+      height: 32
+    spriteID: de38d5b702a15eb479eda69ed7960e7a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_170
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 32
+      width: 32
+      height: 32
+    spriteID: ece8931fd2405bf4baaf0ec5464fa168
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_171
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 32
+      width: 32
+      height: 32
+    spriteID: abb80db501fc4c74687a745d7ed12f68
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_172
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 32
+      width: 32
+      height: 32
+    spriteID: 41b297d517c7204439b2d61dcb65a488
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_173
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 32
+      width: 32
+      height: 32
+    spriteID: 718ef04b531ff4944ae6c811bae1bcda
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_174
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 32
+      width: 32
+      height: 32
+    spriteID: 5a3417b759e18f14587f5ac4be0cae3f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_175
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 32
+      width: 32
+      height: 32
+    spriteID: 1d8fa916dd5618042959f2d40399f042
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_176
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 32
+      width: 32
+      height: 32
+    spriteID: 54f9ad5c9c92d0644af15068e468e9a7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_177
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 32
+      width: 32
+      height: 32
+    spriteID: 4d54de6c686a4ba488df4b09563abc3b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_178
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 32
+      width: 32
+      height: 32
+    spriteID: ce3f8fed8c1423d4bb5db0ff0e69d44a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_179
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 32
+      width: 32
+      height: 32
+    spriteID: 21852fa1976ae51459c3184dfb868e57
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_180
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 32
+      width: 32
+      height: 32
+    spriteID: 1469131a138003848a487f85d2ab42c9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_181
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 384
+      y: 32
+      width: 32
+      height: 32
+    spriteID: 3a9660de766eafe469091b5bfa0a2316
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_182
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 416
+      y: 32
+      width: 32
+      height: 32
+    spriteID: 7d63276a737f16a4497d45e881d0f5e3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_183
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 448
+      y: 32
+      width: 32
+      height: 32
+    spriteID: fdf1bd19c1239a54894261eaa00ea490
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_184
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 480
+      y: 32
+      width: 32
+      height: 32
+    spriteID: 2b30997bc4484ce499a08f8985eb80dd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_185
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 512
+      y: 32
+      width: 32
+      height: 32
+    spriteID: 464deaebe5ec59749934130807bee254
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Pirate_Ship_186
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 544
+      y: 32
+      width: 32
+      height: 32
+    spriteID: 1e1f76356e66f6f41888a7127a67ddc5
+    spriteOutline: []
+    tessellationDetail: 0
+  _secondaryTextures: []

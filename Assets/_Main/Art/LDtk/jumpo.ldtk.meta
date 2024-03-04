@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 3b132fdc39f9ae2459974317b8e8b30e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: aaa16bfc62c086f4fb45da87b6acf9b1, type: 3}
+  _reimportOnDependencyChange: 1
+  _jsonFile: {fileID: -164016180542632921, guid: 3b132fdc39f9ae2459974317b8e8b30e, type: 3}
+  _pixelsPerUnit: 32
+  _customLevelPrefab: {instanceID: 0}
+  _intGridValueColorsVisible: 0
+  _useCompositeCollider: 1
+  _geometryType: 0
+  _createBackgroundColor: 1
+  _createLevelBoundsTrigger: 0
+  _intGridValues:
+  - _key: Platforms_1
+    _asset: {fileID: 11400000, guid: be1be94729cc1bb4c9e74609d9806b4d, type: 2}
+  - _key: PirateShip_1
+    _asset: {fileID: 11400000, guid: fe10b33369c5ee94696be142d8033f8f, type: 2}
+  - _key: PirateShip_2
+    _asset: {instanceID: 0}
+  _entities: []
+  _enumGenerate: 0
+  _enumPath: 
+  _enumNamespace: 
