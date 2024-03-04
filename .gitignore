@@ -71,5 +71,7 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-/[Aa]ssets/[Pp]lugins.meta
-/[Aa]ssets/[Pp]lugins/*
+/[Aa]ssets/Plugins/Zenject.meta
+/[Aa]ssets/Plugins/Zenject/*
+/[Aa]ssets/Plugins/Sirenix.meta
+/[Aa]ssets/Plugins/Sirenix/*
