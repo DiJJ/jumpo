@@ -46,3 +46,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_moveAction: {fileID: 6408221015087938065, guid: ae23173add696a245b7ddbc4e286ffb6, type: 3}
   m_jumpAction: {fileID: 8036038561312332475, guid: ae23173add696a245b7ddbc4e286ffb6, type: 3}
+  m_fallAction: {fileID: 4088385333860396516, guid: ae23173add696a245b7ddbc4e286ffb6, type: 3}

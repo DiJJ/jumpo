@@ -1,0 +1,42 @@
+fileFormatVersion: 2
+guid: 147c3f851da221547af87b738256a6a0
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f3268c876daf4890b6af6cd462063137, type: 3}
+  _reimportOnDependencyChange: 1
+  _pixelsPerUnit: 32
+  _sprites:
+  - name: BigChain_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 32
+      width: 32
+      height: 32
+    spriteID: b8675d7a17aa9524fbfda3fb0cb4e76c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: BigChain_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 32
+      height: 32
+    spriteID: 8c32ffc0dc3fa994b8db3a5961bc7117
+    spriteOutline: []
+    tessellationDetail: 0
+  _secondaryTextures: []

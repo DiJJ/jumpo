@@ -1,0 +1,33 @@
+{
+  "Rects": null,
+  "Def": {
+    "__cHei": 1,
+    "__cWid": 1,
+    "cachedPixelData": {
+      "opaqueTiles": "0",
+      "averageColors": "2767"
+    },
+    "customData": [
+
+    ],
+    "embedAtlas": null,
+    "enumTags": [
+
+    ],
+    "identifier": "Chain",
+    "padding": 0,
+    "pxHei": 32,
+    "pxWid": 32,
+    "relPath": "../Treasure Hunters/Pirate Ship/Sprites/Decorations/Chains/Small/01.png",
+    "savedSelections": [
+
+    ],
+    "spacing": 0,
+    "tags": [
+
+    ],
+    "tagsSourceEnumUid": null,
+    "tileGridSize": 32,
+    "uid": 598
+  }
+}

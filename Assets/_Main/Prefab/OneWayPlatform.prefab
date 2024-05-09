@@ -11,7 +11,8 @@ GameObject:
   - component: {fileID: 3214484891333900235}
   - component: {fileID: 327895177169268480}
   - component: {fileID: 7691695471718046532}
-  m_Layer: 6
+  - component: {fileID: 3557412307409218103}
+  m_Layer: 7
   m_Name: OneWayPlatform
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -84,7 +85,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 1
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: 0.4}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -95,5 +96,18 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1, y: 0.1}
+  m_Size: {x: 1, y: 0.13}
   m_EdgeRadius: 0
+--- !u!114 &3557412307409218103
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8477559639195078507}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 998c47aec3178d44ba03c542e2584e26, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_collider: {fileID: 7691695471718046532}

@@ -1,0 +1,50 @@
+{
+  "Rects": null,
+  "Def": {
+    "__cHei": 2,
+    "__cWid": 1,
+    "cachedPixelData": {
+      "opaqueTiles": "00",
+      "averageColors": "27682768"
+    },
+    "customData": [
+
+    ],
+    "embedAtlas": null,
+    "enumTags": [
+      {
+        "enumValueId": "Decorations0",
+        "tileIds": [
+
+        ]
+      },
+      {
+        "enumValueId": "Decorations1",
+        "tileIds": [
+
+        ]
+      },
+      {
+        "enumValueId": "Decorations2",
+        "tileIds": [
+
+        ]
+      }
+    ],
+    "identifier": "BigChain",
+    "padding": 0,
+    "pxHei": 64,
+    "pxWid": 32,
+    "relPath": "../Treasure Hunters/Pirate Ship/Sprites/Decorations/Chains/Big/01.png",
+    "savedSelections": [
+
+    ],
+    "spacing": 0,
+    "tags": [
+
+    ],
+    "tagsSourceEnumUid": 591,
+    "tileGridSize": 32,
+    "uid": 601
+  }
+}

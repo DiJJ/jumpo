@@ -11,20 +11,34 @@ ScriptedImporter:
   _reimportOnDependencyChange: 1
   _jsonFile: {fileID: -164016180542632921, guid: 3b132fdc39f9ae2459974317b8e8b30e, type: 3}
   _pixelsPerUnit: 32
-  _customLevelPrefab: {instanceID: 0}
+  _customLevelPrefab: {fileID: 7971191984499370386, guid: 1b4e06d0a43e9b241b95c524767f75b4, type: 3}
   _intGridValueColorsVisible: 0
   _useCompositeCollider: 1
   _geometryType: 0
   _createBackgroundColor: 1
   _createLevelBoundsTrigger: 0
   _intGridValues:
+  - _key: Spikes_1
+    _asset: {fileID: 11400000, guid: b6c81a44bef9cdc4586661a77935c122, type: 2}
   - _key: Platforms_1
     _asset: {fileID: 11400000, guid: be1be94729cc1bb4c9e74609d9806b4d, type: 2}
   - _key: PirateShip_1
     _asset: {fileID: 11400000, guid: fe10b33369c5ee94696be142d8033f8f, type: 2}
   - _key: PirateShip_2
     _asset: {instanceID: 0}
-  _entities: []
+  _entities:
+  - _key: Coin
+    _asset: {fileID: 2939139847109369107, guid: a62add2360f65a942aba4b21d85d7ff7, type: 3}
+  - _key: Diamond
+    _asset: {fileID: 7069247545814665016, guid: f41862cd75d39e14b84024346056d524, type: 3}
+  - _key: Window
+    _asset: {fileID: 8082234349895141636, guid: 20d186fc19284b040824e44ebee2e2f1, type: 3}
+  - _key: Candle
+    _asset: {fileID: 2116866600274247452, guid: 7934190a28ab7de4bbcc3561cdf288b6, type: 3}
+  - _key: Chain
+    _asset: {fileID: 5123655303689811061, guid: e408c6e0271c50042ab8ec6e67f3c590, type: 3}
+  - _key: BigChain
+    _asset: {fileID: 4000924752749748601, guid: 6cd35b2757a260d499d148f3e5606650, type: 3}
   _enumGenerate: 0
   _enumPath: 
   _enumNamespace: 

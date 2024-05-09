@@ -1,0 +1,44 @@
+{
+  "Rects": null,
+  "Def": {
+    "__cHei": 1,
+    "__cWid": 1,
+    "cachedPixelData": {
+      "opaqueTiles": "0",
+      "averageColors": "6b97"
+    },
+    "customData": [
+
+    ],
+    "embedAtlas": null,
+    "enumTags": [
+      {
+        "enumValueId": "Items0",
+        "tileIds": [
+          0
+        ]
+      },
+      {
+        "enumValueId": "Items1",
+        "tileIds": [
+
+        ]
+      }
+    ],
+    "identifier": "Coin",
+    "padding": 0,
+    "pxHei": 16,
+    "pxWid": 16,
+    "relPath": "../Treasure Hunters/Pirate Treasure/Sprites/Gold Coin/01.png",
+    "savedSelections": [
+
+    ],
+    "spacing": 0,
+    "tags": [
+
+    ],
+    "tagsSourceEnumUid": 551,
+    "tileGridSize": 16,
+    "uid": 557
+  }
+}

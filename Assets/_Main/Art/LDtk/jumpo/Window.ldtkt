@@ -1,0 +1,50 @@
+{
+  "Rects": null,
+  "Def": {
+    "__cHei": 1,
+    "__cWid": 1,
+    "cachedPixelData": {
+      "opaqueTiles": "0",
+      "averageColors": "a988"
+    },
+    "customData": [
+
+    ],
+    "embedAtlas": null,
+    "enumTags": [
+      {
+        "enumValueId": "Decorations0",
+        "tileIds": [
+
+        ]
+      },
+      {
+        "enumValueId": "Decorations1",
+        "tileIds": [
+
+        ]
+      },
+      {
+        "enumValueId": "Decorations2",
+        "tileIds": [
+
+        ]
+      }
+    ],
+    "identifier": "Window",
+    "padding": 0,
+    "pxHei": 32,
+    "pxWid": 32,
+    "relPath": "../Treasure Hunters/Pirate Ship/Sprites/Decorations/Window/Window/01.png",
+    "savedSelections": [
+
+    ],
+    "spacing": 0,
+    "tags": [
+
+    ],
+    "tagsSourceEnumUid": 591,
+    "tileGridSize": 32,
+    "uid": 589
+  }
+}

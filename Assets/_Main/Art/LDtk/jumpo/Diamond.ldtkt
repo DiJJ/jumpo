@@ -1,0 +1,44 @@
+{
+  "Rects": null,
+  "Def": {
+    "__cHei": 1,
+    "__cWid": 1,
+    "cachedPixelData": {
+      "opaqueTiles": "0",
+      "averageColors": "37ac"
+    },
+    "customData": [
+
+    ],
+    "embedAtlas": null,
+    "enumTags": [
+      {
+        "enumValueId": "Items0",
+        "tileIds": [
+
+        ]
+      },
+      {
+        "enumValueId": "Items1",
+        "tileIds": [
+
+        ]
+      }
+    ],
+    "identifier": "Diamond",
+    "padding": 0,
+    "pxHei": 24,
+    "pxWid": 24,
+    "relPath": "../Treasure Hunters/Pirate Treasure/Sprites/Blue Diamond/01.png",
+    "savedSelections": [
+
+    ],
+    "spacing": 0,
+    "tags": [
+
+    ],
+    "tagsSourceEnumUid": 551,
+    "tileGridSize": 24,
+    "uid": 585
+  }
+}
